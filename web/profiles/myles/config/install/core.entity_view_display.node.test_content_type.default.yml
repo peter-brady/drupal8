@@ -1,0 +1,30 @@
+uuid: 13a835d2-8854-4438-bc69-5bb4459e8025
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.test_content_type.body
+    - node.type.test_content_type
+  module:
+    - text
+    - user
+_core:
+  default_config_hash: ZEYI8fyl6JZP1DiNYO4reiNFFfC-1zBbOHk_8u6wa0w
+id: node.test_content_type.default
+targetEntityType: node
+bundle: test_content_type
+mode: default
+content:
+  body:
+    label: hidden
+    type: text_default
+    weight: 101
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden: {  }

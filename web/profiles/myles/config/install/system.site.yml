@@ -1,0 +1,14 @@
+uuid: d831bf00-b9cf-4569-a2f6-fad2539145b8
+name: Myles
+mail: admin@example.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: ELVNQcVAcvSRaZraG3bWI_UuRdi0QBljr1jHTUY6oyQ
